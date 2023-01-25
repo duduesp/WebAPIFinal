@@ -2,6 +2,7 @@
 using System.Linq;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using SWAdventureWorks_Esperguin.Models;
 
 namespace SWAdventureWorks_Esperguin.Controllers
